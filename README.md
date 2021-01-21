@@ -28,7 +28,7 @@ you will have to put the data and converter directorys inside the encryption_too
 if you have problems how to convert to exe you can watch on my structure in the preconverted exe zip directory
 
 
-
+The settings of the Encryptor can make the time consume better, but some break the Program, so just try out what goes the quickest for you. For me the standard works as one of the best
 
 When you want to run the code as python code, Im not shure if it will work, cause you will have to change the part with subprocess.popen to a python file. 
 

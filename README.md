@@ -47,3 +47,7 @@ google_trans_new https://pypi.org/project/google-trans-new/
 googletrans https://pypi.org/project/googletrans/
 
 TkinterDnD2 https://github.com/pmgagne/tkinterdnd2
+
+
+EDIT May2021:
+going to improve the security of random number implementation by replacing it with random.SystemRandom or something similar secure

@@ -6,7 +6,7 @@ This tool uses Caesar like encryption, BUT instead of Caesar it changes EVERY Ch
 
 To run the exe version of the encryptor unzip all and just double click on encryption_tool.exe or make a shortcut 
 
-If you want to edit the source code by yourself, you can read yourself into bad code.
+If you want to edit the source code by yourself, you can read yourself into the code.
 
 You will need to install pyinstaller
 I would suggest(thats what i always did) to first:
@@ -30,7 +30,7 @@ if you have problems how to convert to exe you can watch on my structure in the 
 
 The settings of the Encryptor can make the time consume better, but some break the Program, so just try out what goes the quickest for you. For me the standard works as one of the best. Also the languages should be OK to read, but not perfect.
 
-When you want to run the code as python code, Im not shure if it will work, cause you will have to change the part with subprocess.popen to a python file. 
+When you want to run the code as python code, Im not sure if it will work, cause you will have to change the part with subprocess.popen to a python file. 
 
 
 
